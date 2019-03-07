@@ -1,0 +1,15 @@
+@Article{aragon2017CSN,
+  author =	 "Arag{\'o}n, Pablo and Gallego, Helena and Laniado,
+                  David and Volkovich, Yana and Kaltenbrunner,
+                  Andreas",
+  title =	 "Online network organization of Barcelona en
+                  Com{\'u}, an emergent movement-party",
+  journal =	 "Computational Social Networks",
+  year =	 2017,
+  volume =	 4,
+  number =	 1,
+  pages =	 8,
+  issn =	 "2197-4314",
+  doi =		 "10.1186/s40649-017-0044-4",
+  url =		 "https://doi.org/10.1186/s40649-017-0044-4"
+}
