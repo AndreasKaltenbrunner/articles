@@ -1,0 +1,7 @@
+@conference {aragon2016measuring,
+	title = {Measuring Platform Effects in Digital Democracy},
+	booktitle = {The Internet, Policy \& Politics Conference (IPPC)},
+	year = {2016},
+	author = {Arag{\'o}n, Pablo and G{\'o}mez, Vicen{\c c} and
+                  Kaltenbrunner, Andreas}
+}

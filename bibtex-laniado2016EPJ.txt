@@ -1,0 +1,11 @@
+@article{laniado2016EPJ,
+  title =	 {Gender homophily in online dyadic and triadic
+                  relationships},
+  author =	 {Laniado, D and Volkovich, Y and
+                  Kappler, KE and Kaltenbrunner, A},
+  journal =	 {EPJ Data Science},
+  pages =	 {1--23},
+  volume =	 5,
+  number =	 19,
+  year =	 2016,
+}

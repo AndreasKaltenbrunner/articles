@@ -1,0 +1,10 @@
+@inproceedings{volkovich2014gender,
+  title =	 {Gender patterns in a large online social network},
+  author =	 {Volkovich, Y and Laniado, D and Kappler, KE and
+                  Kaltenbrunner, A},
+  booktitle =	 {SocInfo'14 - The 6th International Conference on
+                  Social Informatics,},
+  year =	 2014,
+  location =	 {Barcelona, Spain},
+  publisher =	 {Springer}
+}

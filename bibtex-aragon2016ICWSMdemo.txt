@@ -1,0 +1,11 @@
+@inproceedings{aragon2016ICWSMdemo,
+  author =	 {Arag\'{o}n, Pablo and G\'{o}mez, Vicen\c{c} and
+                  Kaltenbrunner, Andreas},
+  title =	 {{Visualization Tool for Collective Awareness in a
+                  Platform of Citizen Proposals}},
+  booktitle =	 {ICWSM-16 - 10th International AAAI Conference on Web
+                  and Social Media},
+  publisher =	 {The AAAI Press},
+  location =	 {Cologne, Germany},
+  year =	 2016
+}

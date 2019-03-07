@@ -1,0 +1,10 @@
+@article{roelleke2015,
+  title =	 {{Harmony Assumptions in Information Retrieval and
+                  Social Networks}},
+  author =	 {Roelleke, Thomas and Kaltenbrunner, Andreas and
+                  Baeza-Yates, Ricardo},
+  journal =	 {The Computer Journal},
+  pages =	 {bxv031},
+  year =	 2015,
+  publisher =	 {Br Computer Soc}
+}

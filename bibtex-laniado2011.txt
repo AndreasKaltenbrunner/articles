@@ -1,0 +1,11 @@
+@inproceedings{Laniado2011,
+  author =	 {D. Laniado and R. Tasso and Y. Volkovich and
+                  A. Kaltenbrunner},
+  title =	 {{When the Wikipedians talk: Network and tree
+                  structure of Wikipedia discussion pages.}},
+  booktitle =	 {ICWSM-11 - 5th International AAAI Conference on
+                  Weblogs and Social Media},
+  publisher =	 {The AAAI Press},
+  location =	 {Barcelona, Spain},
+  year =	 2011
+}

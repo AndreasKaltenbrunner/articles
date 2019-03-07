@@ -1,0 +1,15 @@
+@article{GonzalezBailonHCR2012,
+  author =	 {Gonzalez-Bailon, S. and Kaltenbrunner, A. and
+                  Banchs, R. E.},
+  title =	 {Emotions, Public Opinion and U.S. Presidential
+                  Approval Rates: A 5 Year Analysis of Online
+                  Political Discussions},
+  journal =	 {Human Communication Research},
+  year =	 2012,
+  volume =	 38,
+  number =	 2,
+  issn =	 {1468-2958},
+  url =		 {http://dx.doi.org/10.1111/j.1468-2958.2011.01423.x},
+  doi =		 {10.1111/j.1468-2958.2011.01423.x},
+  pages =	 {121--143},
+}

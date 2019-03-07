@@ -1,0 +1,11 @@
+@inproceedings{kaltenbrunner2013IWSOS,
+  author =	 {A. Kaltenbrunner and P. Arag\'{o}n and D. Laniado
+                  and Y. Volkovich},
+  title =	 {{Not all paths lead to Rome: Analysing the network
+                  of sister cities}},
+  booktitle =	 {Proceedings of the 7th International Workshop on
+                  Self-Organizing Systems (IWSOS 2013)},
+  publisher =	 {Springer},
+  location =	 {Palma de Mallorca, Spain},
+  year =	 2013,
+}

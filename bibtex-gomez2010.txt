@@ -1,0 +1,10 @@
+@misc{gomez2010arxiv,
+  author =	 {Vicen\c{c} G\'{o}mez and Hilbert J. Kappen and Andreas
+                  Kaltenbrunner},
+  title =	 {Modeling the structure and evolution of discussion
+                  cascades},
+  year =	 2010,
+  eprint =	 {arXiv:1011.0673v2},
+  url =		 {http://arxiv.org/abs/1011.0673},
+  note =	 {e-print arXiv:1011.0673}
+}

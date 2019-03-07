@@ -1,0 +1,18 @@
+@inproceedings{borra2014Opensym,
+  author =	 {Borra, Erik and Weltevrede, Esther and Ciuccarelli,
+                  Paolo and Kaltenbrunner, Andreas and Laniado, David
+                  and Magni, Giovanni and Mauri, Michele and Rogers,
+                  Richard and Venturini, Tommaso},
+  title =	 {Contropedia - the Analysis and Visualization of
+                  Controversies in Wikipedia Articles},
+  booktitle =	 {Proceedings of The International Symposium on Open
+                  Collaboration},
+  series =	 {OpenSym '14},
+  year =	 2014,
+  location =	 {Berlin, Germany},
+  pages =	 {34:1--34:1},
+  url =		 {http://doi.acm.org/10.1145/2641580.2641622},
+  doi =		 {10.1145/2641580.2641622},
+  publisher =	 {ACM},
+  address =	 {New York, NY, USA}
+}

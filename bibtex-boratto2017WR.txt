@@ -1,0 +1,10 @@
+@inproceedings{boratto2017report,
+  title={Report on the Workshop on Social Media for Personalization And Search (SoMePeAS)},
+  author={Boratto, Ludovico and Kaltenbrunner, Andreas and Stilo, Giovanni},
+  booktitle={ACM SIGIR Forum},
+  volume={51},
+  number={1},
+  pages={42--44},
+  year={2017},
+  organization={ACM}
+}

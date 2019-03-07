@@ -1,0 +1,9 @@
+@article{aragon2013communication,
+  title={Communication dynamics in twitter during political campaigns: The case of the 2011 Spanish national election},
+  author={Arag{\'o}n, Pablo and Kappler, Karolin Eva and Kaltenbrunner, Andreas and Laniado, David and Volkovich, Yana},
+  journal={Policy \& Internet},
+  volume={5},
+  number={2},
+  pages={183--206},
+  year={2013}
+}

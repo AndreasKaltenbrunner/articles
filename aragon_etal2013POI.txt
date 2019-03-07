@@ -1,0 +1,13 @@
+﻿@article {POI3:POI327,
+author = {Aragón, Pablo and Kappler, Karolin Eva and Kaltenbrunner, Andreas and Laniado, David and Volkovich, Yana},
+title = {Communication dynamics in twitter during political campaigns: The case of the 2011 Spanish national election},
+journal = {Policy & Internet},
+volume = {5},
+number = {2},
+issn = {1944-2866},
+url = {http://dx.doi.org/10.1002/1944-2866.POI327},
+doi = {10.1002/1944-2866.POI327},
+pages = {183--206},
+keywords = {Twitter, politics, political parties, Spanish elections, online political campaigns},
+year = {2013},
+}

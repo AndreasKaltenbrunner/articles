@@ -1,0 +1,11 @@
+@inproceedings {aragon2017ICWSM,
+  author =	 {Pablo Arag{\'o}n and Vicen{\c c} G{\'o}mez and
+                  Andreas Kaltenbrunner},
+  title =	 {To Thread or Not to Thread: The Impact of
+                  Conversation Threading on Online Discussion},
+  booktitle =	 {ICWSM-17 - 11th International AAAI Conference on Web
+                  and Social Media},
+  publisher =	 {The AAAI Press},
+  location =	 {Montreal, Canada},
+  year =	 2017
+}

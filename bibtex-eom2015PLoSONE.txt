@@ -1,0 +1,16 @@
+@article{eom2014PLoSOne,
+  author =	 {Eom, Young-Ho AND Arag{\'o}n, Pablo AND Laniado, David
+                  AND Kaltenbrunner, Andreas AND Vigna, Sebastiano AND
+                  Shepelyansky, Dima L.},
+  journal =	 {PLoS ONE},
+  publisher =	 {Public Library of Science},
+  title =	 {Interactions of Cultures and Top People of Wikipedia
+                  from Ranking of 24 Language Editions},
+  year =	 2015,
+  month =	 03,
+  volume =	 10,
+  url =		 {http://dx.doi.org/10.1371/journal.pone.0114825},
+  pages =	 {e0114825},
+  number =	 3,
+  doi =		 {10.1371/journal.pone.0114825}
+}

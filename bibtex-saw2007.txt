@@ -1,0 +1,12 @@
+@inproceedings{kaltenbrunner_saw2007,
+  AUTHOR =	 "Andreas Kaltenbrunner and Vicen\c{c} G\'omez and
+                  Ayman Moghnieh and Rodrigo Meza and Josep Blat and
+                  Vicente L\'opez",
+  YEAR =	 "2007",
+  TITLE =	 "Homogeneous temporal activity patterns in a large
+                  online communication space",
+  BOOKTITLE =	 "{Proceedings of the BIS 2007 Workshop on Social
+                  Aspects of the Web (SAW 2007)}",
+  ADDRESS =	 "Poznan, Poland",
+  publisher =	 "CEUR-WS"
+}

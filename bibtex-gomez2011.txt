@@ -1,0 +1,12 @@
+@inproceedings{gomez2011HT,
+  author =	 {Vicen\c{c} G\'{o}mez and Hilbert J. Kappen and
+                  Andreas Kaltenbrunner},
+  title =	 {Modeling the structure and evolution of discussion
+                  cascades},
+  booktitle =	 {HT'11, Proceedings of the 22st ACM Conference on
+                  Hypertext and Hypermedia},
+  year =	 2011,
+  location =	 {Eindhoven, The Netherlands},
+  publisher =	 {ACM},
+  address =	 {New York, NY, USA},
+}

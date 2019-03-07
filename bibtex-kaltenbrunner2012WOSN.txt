@@ -1,0 +1,12 @@
+@inproceedings{kaltenbrunner2012WOSN,
+  author =	 {A. Kaltenbrunner and S. Scellato and Y. Volkovich and
+                  D.  Laniado and D. Currie and E. J. Jutemar and
+                  C. Mascolo},
+  title =	 {{Far from the eyes, close on the Web: impact of
+                  geographic distance on online social interactions}},
+  booktitle =	 {Proceedings of ACM SIGCOMM Workshop on Online Social
+                  Networks (WOSN '12)},
+  publisher =	 {ACM},
+  location =	 {Helsinki, Finland},
+  year =	 2012,
+}

@@ -1,0 +1,15 @@
+@inbook{bonchi2017EncySNA,
+  author =	 "Bonchi, Francesco and Gullo, Francesco and
+                  Kaltenbrunner, Andreas",
+  editor =	 "Alhajj, Reda and Rokne, Jon",
+  title =	 "Core Decomposition of Massive, Information-Rich
+                  Graphs",
+  bookTitle =	 "Encyclopedia of Social Network Analysis and Mining",
+  year =	 2017,
+  publisher =	 "Springer New York",
+  address =	 "New York, NY",
+  pages =	 "1--11",
+  isbn =	 "978-1-4614-7163-9",
+  doi =		 "10.1007/978-1-4614-7163-9_110176-1",
+  url =		 "https://doi.org/10.1007/978-1-4614-7163-9_110176-1"
+}

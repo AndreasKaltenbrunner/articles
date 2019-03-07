@@ -1,0 +1,19 @@
+@article{pentzold2017JOCCH,
+  author =	 {Pentzold, Christian and Weltevrede, Esther and
+                  Mauri, Michele and Laniado, David and Kaltenbrunner,
+                  Andreas and Borra, Erik},
+  title =	 {Digging Wikipedia: The Online Encyclopedia As a
+                  Digital Cultural Heritage Gateway and Site},
+  journal =	 {J. Comput. Cult. Herit.},
+  volume =	 10,
+  number =	 1,
+  year =	 2017,
+  issn =	 {1556-4673},
+  pages =	 {5:1--5:19},
+  articleno =	 5,
+  numpages =	 19,
+  url =		 {http://doi.acm.org/10.1145/3012285},
+  doi =		 {10.1145/3012285},
+  publisher =	 {ACM},
+  address =	 {New York, NY, USA},
+}

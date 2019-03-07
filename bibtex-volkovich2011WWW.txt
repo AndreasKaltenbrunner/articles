@@ -1,0 +1,14 @@
+@inproceedings{volkovich2011WWW,
+  author =	 {Yana Volkovich and Andreas Kaltenbrunner},
+  title =	 {{Evaluation of Valuable User Generated Content on
+                  Social News Web Sites}},
+  booktitle =	 {WWW '11: Proceeding of the 20th international
+                  conference on World Wide Web},
+  year =	 2011,
+  isbn =	 {978-1-4503-0637-9},
+  pages =	 {139--140},
+  location =	 {Hyderabad, India},
+  doi =		 {http://doi.acm.org/10.1145/1963192.1963263},
+  publisher =	 {ACM},
+  address =	 {New York, NY, USA},
+}

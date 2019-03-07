@@ -1,0 +1,11 @@
+@misc{kaltenbrunnerBCN2008,
+  author =     {Andreas Kaltenbrunner and Rodrigo Meza and Jens
+                  Grivolla and Joan Codina and Rafael Banchs},
+  title =     {Bicycle cycles and mobility patterns - Exploring and
+                  characterizing data from a community bicycle
+                  program},
+  year =     2008,
+  eprint =     {0810.4187v1},
+  url =         {http://arxiv.org/abs/0810.4187},
+  note =     {e-print arXiv:0810.4187}
+}

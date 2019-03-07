@@ -1,0 +1,10 @@
+@article{aragon2017PI,
+  author =	 {Arag\'on, Pablo and G\'omez, Vicen\c{c} and
+                  Kaltenbrunner, Andreas},
+  title =	 {Detecting Platform Effects in Online Discussions},
+  journal =	 {Policy \& Internet},
+  issn =	 {1944-2866},
+  url =		 {http://dx.doi.org/10.1002/poi3.158},
+  doi =		 {10.1002/poi3.158},
+  volume =	 9
+}

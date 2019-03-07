@@ -1,0 +1,13 @@
+@inproceedings{Pascual-Cid2009,
+  author =	 {Pascual-Cid, Victor and Kaltenbrunner, Andreas},
+  title =	 {Exploring Asynchronous Online Discussions through
+                  Hierarchical Visualisation},
+  booktitle =	 {IV '09: Proceedings of the 2009 13th International
+                  Conference Information Visualisation},
+  year =	 2009,
+  isbn =	 {978-0-7695-3733-7},
+  pages =	 {191--196},
+  doi =		 {http://dx.doi.org/10.1109/IV.2009.14},
+  publisher =	 {IEEE Computer Society},
+  address =	 {Washington, DC, USA},
+}

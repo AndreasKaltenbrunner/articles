@@ -1,0 +1,14 @@
+@inproceedings{borra2014CHI,
+  author =	 {Borra, Erik and Weltevrede, Esther and Ciuccarelli,
+                  Paolo and Kaltenbrunner, Andreas and Laniado, David
+                  and Magni, Giovanni and Mauri, Michele and Rogers,
+                  Richard and Venturini, Tommaso},
+  title =	 {{Societal Controversies in Wikipedia Articles}},
+  booktitle =	 {Proceedings of the 33rd annual ACM conference on
+                  Human factors in Computing Systems},
+  series =	 {CHI 2015},
+  year =	 2015,
+  location =	 {Seoul, Korea},
+  publisher =	 {ACM},
+  address =	 {New York, NY, USA}
+}

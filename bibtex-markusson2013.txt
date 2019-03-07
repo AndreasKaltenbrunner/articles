@@ -1,0 +1,10 @@
+@techreport{markusson2013bounding,
+  title =	 {Bounding boundaries: the construction of
+                  geoengineering on {W}ikipedia},
+  author =	 {Markusson, Nils and Kaltenbrunner, Andreas and
+                  Laniado, David and Venturini, Tommaso},
+  year =	 2013,
+  institution =	 {Climate Geoengineering Governance Working Paper
+                  Series: 005}
+}
+

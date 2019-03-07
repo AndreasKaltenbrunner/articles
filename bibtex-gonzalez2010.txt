@@ -1,0 +1,11 @@
+@misc{gonzalez2010arxiv,
+  author =	 {Sandra Gonzalez-Bailon and Rafael E. Banchs and
+                  Andreas Kaltenbrunner},
+  title =	 {Emotional Reactions and the Pulse of Public Opinion:
+                  Measuring the Impact of Political Events on the
+                  Sentiment of Online Discussions},
+  year =	 2010,
+  eprint =	 {arXiv:1009.4019v1},
+  url =		 {http://arxiv.org/abs/1009.4019},
+  note =	 {e-print arXiv:1009.4019}
+}

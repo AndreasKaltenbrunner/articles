@@ -1,0 +1,10 @@
+@inproceedings{tenThij2013,
+  title =	 {Modeling and predicting page-view dynamics on
+                  Wikipedia},
+  author =	 {ten Thij, Marijn and Volkovich, Yana and Laniado,
+                  David and Kaltenbrunner, Andreas},
+  booktitle =	 {Abstracts of the European Conference on Complex
+                  Systems},
+  series =	 {ECCS 2013},
+  year =	 2013,
+}

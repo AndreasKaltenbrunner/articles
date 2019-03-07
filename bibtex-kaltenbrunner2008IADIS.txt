@@ -1,0 +1,12 @@
+@article{kaltenbrunner2008IADIS,
+  AUTHOR =	 "Andreas Kaltenbrunner and Vicen\c{c} G\'omez and
+                  Ayman Moghnieh and Rodrigo Meza and Josep Blat and
+                  Vicente L\'opez",
+  YEAR =	 2008,
+  TITLE =	 "Homogeneous temporal activity patterns in a large
+                  online communication space",
+  JOURNAL =	 "{IADIS International Journal on WWW/INTERNET}",
+  VOLUME =	 6,
+  NUMBER =	 1,
+  PAGES =	 {61--76}
+}

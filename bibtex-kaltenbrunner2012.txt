@@ -1,0 +1,9 @@
+@misc{Kaltenbrunner2012,
+  author =	 {A. Kaltenbrunner and D. Laniado},
+  title =	 {{There is No Deadline - Time Evolution of Wikipedia
+                  Discussions}},
+  eprint =	 {arXiv:1204.3453v1},
+  url =		 {http://arxiv.org/abs/1204.3453},
+  note =	 {e-print arXiv:1204.3453}
+  year =	 2012,
+}

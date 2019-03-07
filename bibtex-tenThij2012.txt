@@ -1,0 +1,11 @@
+@article{tenThij2012,
+  title =	 {Modeling and predicting page-view dynamics on
+                  Wikipedia},
+  author =	 {ten Thij, Marijn and Volkovich, Yana and Laniado,
+                  David and Kaltenbrunner, Andreas},
+  journal =	 {arXiv preprint arXiv:1212.5943},
+  year =	 2012,
+  eprint =	 {1212.5943v1},
+  url =		 {http://arxiv.org/abs/1212.5943},
+  note =	 {e-print arXiv:1212.5943}
+}

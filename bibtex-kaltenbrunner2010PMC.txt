@@ -1,0 +1,14 @@
+@article{Kaltenbrunner2010PMC,
+  title =	 "Urban cycles and mobility patterns: Exploring and
+                  predicting trends in a bicycle-based public
+                  transport system",
+  author =	 "Andreas Kaltenbrunner and Rodrigo Meza and Jens
+                  Grivolla and Joan Codina and Rafael Banchs",
+  journal =	 "Pervasive and Mobile Computing",
+  volume =	 6,
+  number =	 4,
+  pages =	 "455--466",
+  year =	 2010,
+  issn =	 "1574-1192",
+  doi =		 "DOI: 10.1016/j.pmcj.2010.07.002"
+}

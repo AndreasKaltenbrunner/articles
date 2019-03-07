@@ -1,0 +1,14 @@
+@inproceedings{BanchsSIGIR2008,
+  author =	 {Rafael E. Banchs and Andreas Kaltenbrunner},
+  title =	 {Exploiting MDS Projections for Cross-language IR},
+  booktitle =	 {SIGIR '08: Proceedings of the 31st annual
+                  international ACM SIGIR conference on Research and
+                  development in information retrieval},
+  year =	 2008,
+  isbn =	 {978-1-60558-164-4},
+  pages =	 {863--864},
+  location =	 {Singapore, Singapore},
+  doi =		 {http://doi.acm.org/10.1145/1390334.1390544},
+  publisher =	 {ACM},
+  address =	 {New York, NY, USA},
+}

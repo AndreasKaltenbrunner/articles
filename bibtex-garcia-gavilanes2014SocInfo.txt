@@ -1,0 +1,12 @@
+@inproceedings{garcia2014Socinfo,
+  title =	 {Who are my Audiences? A Study of the Evolution of
+                  Target Audiences in Microblogs},
+  author =	 {Garcia-Gavilanes, Ruth and Kaltenbrunner, Andreas
+                  and S{\'a}ez-Trumper, Diego and Baeza-Yates, Ricardo
+                  and Arag{\'o}n, Pablo and Laniado, David},
+  booktitle =	 {SocInfo'14 - The 6th International Conference on
+                  Social Informatics},
+  year =	 2014,
+  location =	 {Barcelona, Spain},
+  publisher =	 {Springer}
+}

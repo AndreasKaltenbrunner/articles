@@ -1,0 +1,10 @@
+@inproceedings{kaltenbrunner2012WikiSym,
+  author =	 {A. Kaltenbrunner and D. Laniado},
+  title =	 {{There is No Deadline - Time Evolution of Wikipedia
+                  Discussions}},
+  booktitle =	 {Proceedings of the 8th International Symposium on
+                  Wikis and Open Collaboration (WikiSym'12)},
+  publisher =	 {ACM},
+  location =	 {Linz, Austria},
+  year =	 2012,
+}

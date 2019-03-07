@@ -1,0 +1,11 @@
+@inproceedings{laniado2012WikiSym,
+  author =	 {D. Laniado and C. Castillo and A. Kaltenbrunner and
+                  M. Fuster-Morell},
+  title =	 {{Emotions and dialogue in a peer-production
+                  community: the case of Wikipedia}},
+  booktitle =	 {Proceedings of the 8th International Symposium on
+                  Wikis and Open Collaboration (WikiSym'12)},
+  publisher =	 {ACM},
+  location =	 {Linz, Austria},
+  year =	 2012,
+}

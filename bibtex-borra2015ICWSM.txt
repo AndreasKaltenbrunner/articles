@@ -1,0 +1,13 @@
+@inproceedings{borra2014ICWSM,
+  author =	 {Borra, Erik and Laniado, David and Weltevrede,
+                  Esther and Mauri, Michele and Magni, Giovanni and
+                  Venturini, Tommas and Ciuccarelli, Paolo and Rogers,
+                  Richard and Kaltenbrunner, Andreas},
+  title =	 {{A Platform for Visually Exploring the Development
+                  of Wikipedia Articles}},
+  booktitle =	 {ICWSM-15 - 9th International AAAI Conference on Web
+                  and Social Media},
+  publisher =	 {The AAAI Press},
+  location =	 {Oxford, UK},
+  year =	 2015
+}

@@ -1,0 +1,13 @@
+@article {markusson2016,
+  author =	 {Markusson, Nils and Venturini, Tommaso and Laniado,
+                  David and Kaltenbrunner, Andreas},
+  title =	 {Contrasting medium and genre on Wikipedia to open up
+                  the dominating definition and classification of
+                  geoengineering},
+  volume =	 3,
+  number =	 2,
+  year =	 2016,
+  doi =		 {10.1177/2053951716666102},
+  publisher =	 {SAGE Publications},
+  journal =	 {Big Data \& Society}
+}

@@ -1,0 +1,10 @@
+@article{eom2014interactions,
+  title =	 {Interactions of cultures and top people of Wikipedia
+                  from ranking of 24 language editions},
+  author =	 {Eom, Young-Ho and Arag{\'o}n, Pablo and Laniado,
+                  David and Kaltenbrunner, Andreas and Vigna,
+                  Sebastiano and Shepelyansky, Dima L},
+  journal =	 {PLoS ONE},
+  year =	 2014,
+  note =	 {forthcoming}
+}

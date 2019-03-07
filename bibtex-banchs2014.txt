@@ -1,0 +1,20 @@
+@incollection{banchs2014,
+  year =	 2014,
+  isbn =	 {978-3-319-12843-6},
+  booktitle =	 {Information Retrieval Technology},
+  volume =	 8870,
+  series =	 {Lecture Notes in Computer Science},
+  editor =	 {Jaafar, Azizah and Mohamad Ali, Nazlena and Mohd
+                  Noah, ShahrulAzman and Smeaton, AlanF. and Bruza,
+                  Peter and Bakar, ZainabAbu and Jamil, Nursuriati and
+                  Sembok, TengkuMohdTengku},
+  doi =		 {10.1007/978-3-319-12844-3_29},
+  title =	 {Emotional Links between Structure and Content in
+                  Online Communications},
+  url =		 {http://dx.doi.org/10.1007/978-3-319-12844-3_29},
+  publisher =	 {Springer International Publishing},
+  author =	 {Banchs, Rafael E. and Kaltenbrunner, Andreas},
+  pages =	 {340-347},
+  note =	 {AIRS2014 - The Tenth Asia Information Retrieval
+                  Societies Conference, Kuching, Malaysia}
+}

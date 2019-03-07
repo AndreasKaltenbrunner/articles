@@ -1,0 +1,12 @@
+@article{kaltenbrunner2011NRHM,
+  author =	 {Kaltenbrunner, Andreas and Gonzalez, Gustavo and
+                  Ruiz De Querol, Ricard and Volkovich, Yana},
+  title =	 {Comparative analysis of articulated and behavioural
+                  social networks in a social news sharing website},
+  journal =	 {New Review of Hypermedia and Multimedia},
+  volume =	 17,
+  number =	 3,
+  pages =	 {243-266},
+  year =	 2011,
+  doi =		 {10.1080/13614568.2011.598192},
+}

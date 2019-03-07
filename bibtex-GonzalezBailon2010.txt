@@ -1,0 +1,10 @@
+@article{GonzalezBailonJIT2010,
+  author =	 {Gonzalez-Bailon, S. and Kaltenbrunner, A. and Banchs,
+                  R. E.},
+  title =	 {The structure of political discussion networks: a
+                  model for the analysis of online deliberation},
+  journal =	 {Journal of Information Technology},
+  year =	 2010,
+  volume =	 25,
+  pages =	 {230--243}
+}

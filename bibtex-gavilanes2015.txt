@@ -1,0 +1,17 @@
+@inproceedings{gavilanes2015,
+  author =	 {Gavilanes, Ruth Olimpia G. and Gomez, Diego and
+                  Parra Santander, Denis and Trattner, Christoph and
+                  Kaltenbrunner, Andreas and Graells, Eduardo},
+  title =	 {Language, Twitter and Academic Conferences},
+  booktitle =	 {Proceedings of the 26th ACM Conference on Hypertext
+                  \& Social Media},
+  series =	 {HT '15},
+  year =	 2015,
+  isbn =	 {978-1-4503-3395-5},
+  location =	 {Guzelyurt, Northern Cyprus},
+  pages =	 {159--163},
+  url =		 {http://doi.acm.org/10.1145/2700171.2791059},
+  doi =		 {10.1145/2700171.2791059},
+  publisher =	 {ACM},
+  address =	 {New York, NY, USA},
+}

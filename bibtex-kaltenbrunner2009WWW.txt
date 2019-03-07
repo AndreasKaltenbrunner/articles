@@ -1,0 +1,9 @@
+@inproceedings{kaltenbrunner2009WWW,
+  author =	 {A. Kaltenbrunner and E. Bondia and R. E. Banchs},
+  title =	 {Analyzing and ranking the Spanish speaking MySpace
+                  community by their contributions in forums},
+  booktitle =	 {WWW '09: Proceeding of the 18th international
+                  conference on World Wide Web},
+  year =	 2009,
+  location =	 {Madrid, Spain}
+}

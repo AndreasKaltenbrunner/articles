@@ -1,0 +1,9 @@
+@inproceedings{KaltenbrunnerWS2009,
+  author =	 {Kaltenbrunner, A. and Gonzalez-Bailon, S. and
+                  Banchs, R. E.},
+  title =	 {Communities on the Web: Mechanisms Underlying the 
+  		  Emergence of Online Discussion Networks},
+  booktitle =	 {WebSci'09: Society On-Line},
+  year =	 2009,
+  location =	 {Athens, Greece}
+}

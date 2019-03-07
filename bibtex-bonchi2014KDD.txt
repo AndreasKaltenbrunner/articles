@@ -1,0 +1,14 @@
+@inproceedings{bonchi2014core,
+  title =	 {Core Decomposition of Uncertain Graphs},
+  author =	 {Bonchi, Francesco and Gullo, Francesco and
+                  Kaltenbrunner, Andreas and Volkovich, Yana},
+  booktitle =	 {Proceedings of the 20th ACM SIGKDD International
+                  Conference on Knowledge Discovery and Data Mining},
+  series =	 {KDD '14},
+  pages =	 {1316--1325},
+  year =	 2014,
+  publisher =	 {ACM},
+  url =		 {http://doi.acm.org/10.1145/2623330.2623655},
+  doi =		 {10.1145/2623330.2623655},
+  address =	 {New York, NY, USA},
+}

@@ -1,0 +1,13 @@
+@article{Manca201756,
+  title =	 "Using social media to characterize urban mobility
+                  patterns: State-of-the-art survey and case-study ",
+  journal =	 "Online Social Networks and Media ",
+  volume =	 1,
+  pages =	 "56--69",
+  year =	 2017,
+  issn =	 "2468-6964",
+  doi =		 "https://doi.org/10.1016/j.osnem.2017.04.002",
+  author =	 "Matteo Manca and Ludovico Boratto and Victor Morell
+                  Roman and Oriol Martori i Gallissà and Andreas
+                  Kaltenbrunner",
+}

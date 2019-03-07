@@ -1,0 +1,12 @@
+@Article{Laniado2017ISF,
+  author =	 "Laniado, David and Volkovich, Yana and Scellato,
+                  Salvatore and Mascolo, Cecilia and Kaltenbrunner,
+                  Andreas",
+  title =	 "The Impact of Geographic Distance on Online Social
+                  Interactions",
+  journal =	 "Information Systems Frontiers",
+  year =	 2017,
+  issn =	 "1572-9419",
+  doi =		 "10.1007/s10796-017-9784-9",
+  url =		 "https://doi.org/10.1007/s10796-017-9784-9"
+}

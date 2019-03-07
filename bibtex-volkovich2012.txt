@@ -1,0 +1,13 @@
+@inproceedings{Volkovich2012,
+  author =	 {Y. Volkovich and S. Scellato and D.
+                  Laniado and C. Mascolo and A.
+                  Kaltenbrunner},
+  title =	 {{The length of bridge ties: structural and
+                  geographic properties of online social
+                  interactions.}},
+  booktitle =	 {ICWSM-12 - 6th International AAAI Conference on
+                  Weblogs and Social Media},
+  publisher =	 {The AAAI Press},
+  location =	 {Dublin, Ireland},
+  year =	 2012
+}

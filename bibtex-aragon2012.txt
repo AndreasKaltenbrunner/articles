@@ -1,0 +1,11 @@
+@inproceedings{aragon2012Wikisym,
+  author =	 {P. Arag\'{o}n and A. Kaltenbrunner and D. Laniado
+                  and Y. Volkovich},
+  title =	 {{Biographical Social Networks on Wikipedia - A
+                  cross-cultural study of links that made history,}},
+  booktitle =	 {Proceedings of the 8th International Symposium on
+                  Wikis and Open Collaboration (WikiSym'12)},
+  publisher =	 {ACM},
+  location =	 {Linz, Austria},
+  year =	 2012,
+}
