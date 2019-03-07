@@ -1,0 +1,14 @@
+@article{aragon2017JISA,
+  author =	 "Arag{\'o}n, Pablo and G{\'o}mez, Vicen{\c{c}} and
+                  Garc{\'i}a, David and Kaltenbrunner, Andreas",
+  title =	 "Generative models of online discussion threads:
+                  state of the art and research challenges",
+  journal =	 "Journal of Internet Services and Applications",
+  year =	 2017,
+  volume =	 8,
+  number =	 1,
+  pages =	 15,
+  issn =	 "1869-0238",
+  doi =		 "10.1186/s13174-017-0066-z",
+  url =		 "https://doi.org/10.1186/s13174-017-0066-z"
+}
