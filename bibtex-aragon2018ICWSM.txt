@@ -1,0 +1,6 @@
+@inproceedings{aragon2018online,
+  title={Online Petitioning Through Data Exploration and What We Found There: A Dataset of Petitions from Avaaz. org},
+  author={Arag{\'o}n, Pablo and S{\'a}ez-Trumper, Diego and Redi, Miriam and Hale, Scott and G{\'o}mez, Vicen{\c{c}} and Kaltenbrunner, Andreas},
+  booktitle={Twelfth International AAAI Conference on Web and Social Media},
+  year={2018}
+}

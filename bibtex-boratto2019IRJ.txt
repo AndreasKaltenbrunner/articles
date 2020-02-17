@@ -1,0 +1,10 @@
+@article{boratto2019guest,
+  title={Guest editorial: social media for personalization and search},
+  author={Boratto, Ludovico and Kaltenbrunner, Andreas and Stilo, Giovanni},
+  journal={Information Retrieval Journal},
+  volume={22},
+  number={1-2},
+  pages={1--3},
+  year={2019},
+  publisher={Springer}
+}

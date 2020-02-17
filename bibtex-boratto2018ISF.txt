@@ -1,0 +1,10 @@
+@article{boratto2018guest,
+  title={Guest editorial: Behavioral-data mining in information systems and the big data era},
+  author={Boratto, Ludovico and Carta, Salvatore and Kaltenbrunner, Andreas and Manca, Matteo},
+  journal={Information Systems Frontiers},
+  volume={20},
+  number={6},
+  pages={1153--1156},
+  year={2018},
+  publisher={Springer}
+}
