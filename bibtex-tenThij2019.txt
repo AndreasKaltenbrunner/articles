@@ -1,0 +1,9 @@
+@article{tenThij2019,
+  title={Collective attention patterns under controlled conditions},
+  author={ten Thij, Marijn and Kaltenbrunner, Andreas and Laniado, David and Volkovich, Yana},
+  journal={Online Social Networks and Media},
+  volume={13},
+  pages={100047},
+  year={2019},
+  publisher={Elsevier}
+}
