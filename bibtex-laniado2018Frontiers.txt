@@ -1,4 +1,4 @@
-@article{laniado2018impact,
+@article{laniado2018,
   title={The impact of geographic distance on online social interactions},
   author={Laniado, David and Volkovich, Yana and Scellato, Salvatore and Mascolo, Cecilia and Kaltenbrunner, Andreas},
   journal={Information Systems Frontiers},
