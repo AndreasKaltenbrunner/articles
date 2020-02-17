@@ -1,0 +1,9 @@
+@inproceedings{lykousas2019,
+  title={Sharing emotions at scale: The Vent dataset},
+  author={Lykousas, Nikolaos and Patsakis, Constantinos and Kaltenbrunner, Andreas and G{\'o}mez, Vicen{\c{c}}},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={13},
+  number={01},
+  pages={611--619},
+  year={2019}
+}
