@@ -1,0 +1,12 @@
+@article{alvarez2020arxiv,
+  author    = {Nurudin Alvarez{-}Gonzalez and
+               Andreas Kaltenbrunner and
+               Vicen{\c{c}} G{\'{o}}mez},
+  title     = {Inductive Graph Embeddings through Locality Encodings},
+  journal   = {CoRR},
+  volume    = {abs/2009.12585},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2009.12585},
+  archivePrefix = {arXiv},
+  eprint    = {2009.12585}
+}
