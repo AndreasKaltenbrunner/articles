@@ -2,7 +2,8 @@
   title={The Role of Local Content in Wikipedia: A Study on Reader and Editor Engagement},
   author={Miquel-Ribé, Marc and Laniado, David and Kaltenbrunner, Andreas},
   journal={Área abierta},
-  volume={2},
+  volume={21},
+  number={2},
   pages={123--151},
   year={2021},
   publisher={Ediciones Complutense}
