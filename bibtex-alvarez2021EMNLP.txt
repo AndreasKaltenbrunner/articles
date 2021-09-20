@@ -3,6 +3,6 @@
                Andreas Kaltenbrunner and
                Vicen{\c{c}} G{\'{o}}mez},
   title     = {Uncovering the Limits of Text-based Emotion Detection},
-  booktitle = {Proceedings of EMNLP 2021 - The 2021 Conference on Empirical Methods in Natural Language Processing},
+  booktitle = {Proceedings of EMNLP 2021: The 2021 Conference on Empirical Methods in Natural Language Processing},
   year      = {2021}
 }
