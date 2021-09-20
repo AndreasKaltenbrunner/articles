@@ -1,9 +1,8 @@
-@article{alvarez2021EMNLP,
+@inproceedings{alvarez2021EMNLP,
   author    = {Nurudin Alvarez{-}Gonzalez and
                Andreas Kaltenbrunner and
                Vicen{\c{c}} G{\'{o}}mez},
   title     = {Uncovering the Limits of Text-based Emotion Detection},
-  journal   = {CoRR},
-  volume    = {abs/2009.12585},
+  booktitle = {Proceedings of EMNLP 2021 - The 2021 Conference on Empirical Methods in Natural Language Processing},
   year      = {2021}
 }
