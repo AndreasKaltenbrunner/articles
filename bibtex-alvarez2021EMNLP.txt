@@ -1,0 +1,9 @@
+@article{alvarez2021EMNLP,
+  author    = {Nurudin Alvarez{-}Gonzalez and
+               Andreas Kaltenbrunner and
+               Vicen{\c{c}} G{\'{o}}mez},
+  title     = {Uncovering the Limits of Text-based Emotion Detection},
+  journal   = {CoRR},
+  volume    = {abs/2009.12585},
+  year      = {2021}
+}
