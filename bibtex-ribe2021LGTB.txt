@@ -1,0 +1,9 @@
+@article{miquel2021bridging,
+  title={Bridging LGBT+ Content Gaps Across Wikipedia Language Editions},
+  author={Miquel-Rib{\'e}, Marc and Kaltenbrunner, Andreas and Keefer, Jeffrey M},
+  journal={The International Journal of Information, Diversity, \& Inclusion (IJIDI)},
+  volume={5},
+  number={4},
+  pages={90--131},
+  year={2021}
+}
