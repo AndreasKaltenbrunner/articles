@@ -1,0 +1,9 @@
+@article{alvarez2021emotion,
+  title={Emotion-Core: An Open Source framework for emotion detection research},
+  author={Alvarez-Gonzalez, Nurudin and Kaltenbrunner, Andreas and G{\'o}mez, Vicen{\c{c}}},
+  journal={Software Impacts},
+  volume={10},
+  pages={100179},
+  year={2021},
+  publisher={Elsevier}
+}
