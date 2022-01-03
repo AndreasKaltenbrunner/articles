@@ -1,8 +1,13 @@
 @inproceedings{alvarez2021EMNLP,
-  author    = {Nurudin Alvarez{-}Gonzalez and
-               Andreas Kaltenbrunner and
-               Vicen{\c{c}} G{\'{o}}mez},
-  title     = {Uncovering the Limits of Text-based Emotion Detection},
-  booktitle = {Proceedings of EMNLP 2021: The 2021 Conference on Empirical Methods in Natural Language Processing},
-  year      = {2021}
+    title = "Uncovering the Limits of Text-based Emotion Detection",
+    author = "Alvarez-Gonzalez, Nurudin  and
+      Kaltenbrunner, Andreas  and
+      G{\'o}mez, Vicen{\c{c}}",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2021",
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-emnlp.219",
+    doi = "10.18653/v1/2021.findings-emnlp.219",
+    pages = "2560--2583",
 }
