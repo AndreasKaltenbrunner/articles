@@ -1,0 +1,6 @@
+@article{alvarez2022beyond,
+  title={Beyond 1-WL with Local Ego-Network Encodings},
+  author={Alvarez-Gonzalez, Nurudin and Kaltenbrunner, Andreas and G{\'o}mez, Vicen{\c{c}}},
+  journal={arXiv preprint arXiv:2211.14906},
+  year={2022}
+}

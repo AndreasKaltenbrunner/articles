@@ -1,0 +1,6 @@
+@article{betti2022large,
+  title={Large scale analysis of gender bias and sexism in song lyrics},
+  author={Betti, Lorenzo and Abrate, Carlo and Kaltenbrunner, Andreas},
+  journal={arXiv preprint arXiv:2208.02052},
+  year={2022}
+}
