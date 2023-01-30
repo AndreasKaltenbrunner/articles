@@ -1,0 +1,8 @@
+@inproceedings{
+alvarez-gonzalez2022beyond,
+title={Beyond 1-{WL} with Local Ego-Network Encodings},
+author={Nurudin Alvarez-Gonzalez and Andreas Kaltenbrunner and Vicen{\c{c}} G{\'o}mez},
+booktitle={The First Learning on Graphs Conference},
+year={2022},
+url={https://openreview.net/forum?id=5Zxh3fQ8F-h}
+}
