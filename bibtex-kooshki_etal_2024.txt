@@ -1,0 +1,11 @@
+@Article{nhess-24-309-2024,
+AUTHOR = {Kooshki Forooshani, M. and van den Homberg, M. and Kalimeri, K. and Kaltenbrunner, A. and Mejova, Y. and Milano, L. and Ndirangu, P. and Paolotti, D. and Teklesadik, A. and Turner, M. L.},
+TITLE = {Towards a global impact-based forecasting model for tropical cyclones},
+JOURNAL = {Natural Hazards and Earth System Sciences},
+VOLUME = {24},
+YEAR = {2024},
+NUMBER = {1},
+PAGES = {309--329},
+URL = {https://nhess.copernicus.org/articles/24/309/2024/},
+DOI = {10.5194/nhess-24-309-2024}
+}
