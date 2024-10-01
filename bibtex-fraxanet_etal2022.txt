@@ -1,0 +1,9 @@
+@misc{fraxanet2024,
+      title={Engagement, Content Quality and Ideology over Time on the Facebook URL Dataset}, 
+      author={Emma Fraxanet and Fabrizio Germano and Andreas Kaltenbrunner and Vicenç Gómez},
+      year={2024},
+      eprint={2409.13461},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2409.13461}, 
+}
