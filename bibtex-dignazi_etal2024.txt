@@ -1,0 +1,9 @@
+@misc{dignazi2024,
+      title={Language-Agnostic Modeling of Source Reliability on Wikipedia}, 
+      author={Jacopo D'Ignazi and Andreas Kaltenbrunner and Yelena Mejova and Michele Tizzani and Kyriaki Kalimeri and Mariano Beiró and Pablo Aragón},
+      year={2024},
+      eprint={2410.18803},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI},
+      url={https://arxiv.org/abs/2410.18803}, 
+}
