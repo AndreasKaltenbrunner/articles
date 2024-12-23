@@ -1,7 +1,5 @@
 @article{Betti_etal2023EPJ,
-author={Betti, Lorenzo
-and Abrate, Carlo
-and Kaltenbrunner, Andreas},
+author={Betti, Lorenzo and Abrate, Carlo and Kaltenbrunner, Andreas},
 title={Large scale analysis of gender bias and sexism in song lyrics},
 journal={EPJ Data Science},
 year={2023},
