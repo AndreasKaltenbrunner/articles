@@ -3,6 +3,7 @@
       author={Jacopo Amidei and Rubén Nieto and Andreas Kaltenbrunner and Jose Gregorio {Ferreira De Sá} and Mayte Serrat and  Klara Albajesz},
       year={2025},
       journal={J Med Internet Res}, 
+      note={(forthcoming/in press)}
       doi={10.2196/65903},
       url={https://doi.org/10.2196/65903}, 
 }
