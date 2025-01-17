@@ -1,4 +1,4 @@
-@inproceedings{takahashi-etal-2024-abstractive,
+@inproceedings{amidei2025Coling,
     title = {Exploring the Impact of Language Switching on Personality Traits in LLMs},
     author={Jacopo Amidei and Jose Gregorio {Ferreira De Sá} and Rubén Nieto and Andreas Kaltenbrunner},
     booktitle = {Proceedings of the 31st International Conference on Computational Linguistics. (COLING 2025)},
