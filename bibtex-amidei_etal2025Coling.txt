@@ -1,7 +1,7 @@
 @inproceedings{amidei2025Coling,
     title = "Exploring the Impact of Language Switching on Personality Traits in {LLM}s",
     author = "Amidei, Jacopo  and
-      Ferreira De S{\'a}, Jose Gregorio  and
+      Ferreira de S{\'a}, Jose Gregorio  and
       Luna Nieto, Rub{\'e}n  and
       Kaltenbrunner, Andreas",
     editor = "Rambow, Owen  and
