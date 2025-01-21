@@ -1,8 +1,18 @@
 @inproceedings{amidei2025Coling,
-    title = {Exploring the Impact of Language Switching on Personality Traits in LLMs},
-    author={Jacopo Amidei and Jose Gregorio {Ferreira De Sá} and Rubén Nieto and Andreas Kaltenbrunner},
-    booktitle = {Proceedings of the 31st International Conference on Computational Linguistics. (COLING 2025)},
-    year = {2025},
-    address = {Abu Dhabi, UAE},
-    publisher = {ICCL},
- }
+    title = "Exploring the Impact of Language Switching on Personality Traits in {LLM}s",
+    author = "Amidei, Jacopo  and
+      Ferreira De S{\'a}, Jose Gregorio  and
+      Luna Nieto, Rub{\'e}n  and
+      Kaltenbrunner, Andreas",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.162/",
+    pages = "2370--2378"}
