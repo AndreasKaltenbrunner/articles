@@ -1,6 +1,6 @@
 @inproceedings{ferreira_etal2024KDD-AIDSH,
 title={How well do simulated populations with {GPT}-4 align with real ones in clinical trials? The case of the {EPQR}-A personality test},
-author={Jose Gregorio Ferreira De S{\'a} and Andreas Kaltenbrunner and Jacopo Amidei and Rub{\'e}n Nieto},
+author={Jose Gregorio Ferreira de S{\'a} and Andreas Kaltenbrunner and Jacopo Amidei and Rub{\'e}n Nieto},
 booktitle={Artificial Intelligence and Data Science for Healthcare: Bridging Data-Centric AI and People-Centric Healthcare},
 year={2024},
 url={https://openreview.net/forum?id=yuFUM0cVyX}
