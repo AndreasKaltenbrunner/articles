@@ -1,6 +1,6 @@
 @article{amidei2025JMIR,
       title={Can we use Large Language Models (LLMs) to assess the chronic pain experience?}, 
-      author={Jacopo Amidei and Rubén Nieto and Andreas Kaltenbrunner and Jose Gregorio {Ferreira De Sá} and Mayte Serrat and  Klara Albajesz},
+      author={Jacopo Amidei and Rubén Nieto and Andreas Kaltenbrunner and Jose Gregorio {Ferreira de Sá} and Mayte Serrat and  Klara Albajesz},
       year={2025},
       journal={J Med Internet Res}, 
       note={(forthcoming/in press)},
