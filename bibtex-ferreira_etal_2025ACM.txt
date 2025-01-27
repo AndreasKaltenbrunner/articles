@@ -1,0 +1,14 @@
+@article{10.1145/3712301,
+author = {Ferreira, Gregorio and Amidei, Jacopo and Nieto, Rub\'{e}n and Kaltenbrunner, Andreas},
+title = {Matching GPT-simulated populations with real ones in psychological studies - the case of the EPQR-A personality test},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3712301},
+doi = {10.1145/3712301},
+abstract = {This article analyzes how well OpenAI's LLM GPT-4 can emulate different personalities and simulate populations to answer psychological questionnaires similarly to real population samples. For this purpose, we performed different experiments with the Eysenck Personality Questionnaire-Revised Abbreviated (EPQR-A) in three different languages (Spanish, English, and Slovak). The EPQR-A measures personality on four scales: extraversion (E: sociability), neuroticism (N: emotional stability), psychoticism (P: tendency to break social rules, and not having empathy), and lying (L: social desirability).We perform a comparative analysis of the answers of synthetic populations with those of two real population samples of Spanish students as well as the unconditioned baseline personality of GPT. Furthermore, the impact of time (what year the questionnaire is answered), questionnaire language, and student age and gender are analyzed.To our knowledge, this is the first time the EPQR-A test has been used to assess the GPT´s personality and the impact of different language versions and time are measured.Our analysis reveals that GPT-4 exhibits an extroverted, emotionally stable personality with low psychoticism levels and high social desirability. GPT-4 replicates some differences observed in real populations in terms of gender but only partially replicates the results for real populations.},
+note = {Just Accepted},
+journal = {ACM Trans. Comput. Healthcare},
+month = jan,
+keywords = {Large Language Models, EPQR-A test, GPT, synthetic populations, personality test}
+}
