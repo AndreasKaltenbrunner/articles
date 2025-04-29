@@ -1,10 +1,10 @@
 @article{ferreira_etal2025ACM,
-author = {Ferreira, Gregorio and Amidei, Jacopo and Nieto, Rub\'{e}n and Kaltenbrunner, Andreas},
-title = {Matching GPT-simulated populations with real ones in psychological studies - the case of the EPQR-A personality test},
-year = {2025},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3712301},
-doi = {10.1145/3712301},
-journal = {ACM Trans. Comput. Healthcare}
+  title={Matching GPT-simulated Populations with Real Ones in Psychological Studies—The Case of the EPQR-A Personality Test},
+  author={Ferreira, Gregorio and Amidei, Jacopo and Nieto, Rub{\'e}n and Kaltenbrunner, Andreas},
+  journal={ACM Transactions on Computing for Healthcare},
+  volume={6},
+  number={2},
+  pages={1--33},
+  year={2025},
+  publisher={ACM New York, NY}
 }
