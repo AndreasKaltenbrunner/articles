@@ -1,0 +1,9 @@
+@misc{fraxanet2025derStandard,
+      title={A Decade of News Forum Interactions: Threaded Conversations, Signed Votes, and Topical Tags}, 
+      author={Emma Fraxanet and Vicenç Gómez and Andreas Kaltenbrunner and Max Pellert},
+      year={2025},
+      eprint={2506.22224},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI},
+      url={https://arxiv.org/abs/2506.22224}, 
+}
