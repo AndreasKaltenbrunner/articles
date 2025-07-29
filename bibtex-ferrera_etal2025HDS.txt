@@ -1,0 +1,12 @@
+@ARTICLE{Ferreira2025HDS,
+  title     = "How well do simulated population samples with {GPT-4} align with
+               real ones? The case of the Eysenck Personality Questionnaire
+               {Revised-Abbreviated} personality test",
+  author    = "Ferreira, Gregorio and Amidei, Jacopo and Nieto, Rub{\'e}n and
+               Kaltenbrunner, Andreas",
+  journal   = "Health Data Sci.",
+  publisher = "American Association for the Advancement of Science (AAAS)",
+  volume    =  5,
+  pages     = "0284",
+  year      =  2025
+}
