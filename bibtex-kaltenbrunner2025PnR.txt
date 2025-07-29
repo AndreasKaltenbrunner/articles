@@ -1,0 +1,9 @@
+@misc{kaltenbrunner2025PnR,
+      title={A Simple and Explainable Model for Park-and-Ride Car Park Occupancy Prediction}, 
+      author={Andreas Kaltenbrunner and Josep Ferrer and David Moreno and Vicenç Gómez},
+      year={2025},
+      eprint={2503.12044},
+      archivePrefix={arXiv},
+      primaryClass={stat.AP},
+      url={https://arxiv.org/abs/2503.12044}, 
+}
