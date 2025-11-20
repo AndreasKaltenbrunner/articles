@@ -1,0 +1,11 @@
+@article{DIgnazi_TWeb2025,
+author = {D'Ignazi, Jacopo and Kaltenbrunner, Andreas and Mejova, Yelena and Tizzani, Michele and Kalimeri, Kyriaki and Beir\'{o}, Mariano and Arag\'{o}n, Pablo},
+title = {Language-Agnostic Modeling of Source Reliability on Wikipedia},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1559-1131},
+url = {https://doi.org/10.1145/3777444},
+doi = {10.1145/3777444},
+journal = {ACM Trans. Web},
+}
