@@ -1,0 +1,8 @@
+@article{fraxanet2026decade,
+  title={A decade of news forum interactions: Threaded conversations, signed votes, and topical tags},
+  author={Fraxanet, Emma and G{\'o}mez, Vicen{\c{c}} and Kaltenbrunner, Andreas and Pellert, Max},
+  journal={Scientific Data},
+  year={2026},
+  url = {https://doi.org/10.1038/s41597-026-07267-3},
+  publisher={Nature Publishing Group UK London}
+}
