@@ -1,0 +1,10 @@
+@Article{moss2026-globalModel,
+AUTHOR = {Moss, F. and Mejova, Y. and Kaltenbrunner, A. and Downing, T. and van den Homberg, M. and Ndirangu, P. and Milano, L. and Kalimeri, K.},
+TITLE = {Global Sub-national Impact-based Forecasting for Tropical Cyclones Using Open Data: Combining Machine Learning and Exposure-based Approaches},
+JOURNAL = {EGUsphere},
+VOLUME = {2026},
+YEAR = {2026},
+PAGES = {1--38},
+URL = {https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1996/},
+DOI = {10.5194/egusphere-2026-1996}
+}
