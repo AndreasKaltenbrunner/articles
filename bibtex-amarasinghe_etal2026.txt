@@ -1,0 +1,7 @@
+@misc{amarasinghe2026uncertainty,
+      title={Uncertainty-Aware Estimation of Mis/Disinformation Prevalence on Social Media}, 
+      author={Ishari Amarasinghe and Salvatore Romano and Jacopo Amidei and Emmanuel M. Vincent and Andreas Kaltenbrunner},
+      year={2026},
+      eprint={2603.11058},
+      url={https://arxiv.org/abs/2603.11058}, 
+}
