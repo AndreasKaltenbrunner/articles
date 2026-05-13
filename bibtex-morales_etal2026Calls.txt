@@ -1,0 +1,10 @@
+@Article{morales2026_122calls,
+AUTHOR = {Morales, J. and Kaltenbrunner, A. and Lapedriza, \`A. and Llort, X.},
+TITLE = {Using machine learning for the prediction of flood-related 112 calls},
+JOURNAL = {EGUsphere},
+VOLUME = {2026},
+YEAR = {2026},
+PAGES = {1--35},
+URL = {https://egusphere.copernicus.org/preprints/2026/egusphere-2026-1253/},
+DOI = {10.5194/egusphere-2026-1253}
+}
