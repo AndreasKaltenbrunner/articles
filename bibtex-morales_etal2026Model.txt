@@ -1,0 +1,7 @@
+@unpublished{morales2026Model,
+  title={Are traditional hazard-based weather warnings anticipating local impact?},
+  author={Morales, Jordi and Llort, Xavier and Kaltenbrunner, Andreas and Lapedriza, Agata},
+  note={Available at SSRN 6339726},
+  url={https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6339726},
+  year={2026
+}
