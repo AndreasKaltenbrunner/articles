@@ -1,0 +1,7 @@
+@misc{amidei2026personalitytrap,
+      title={The Personality Trap: How LLMs Embed Bias When Generating Human-Like Personas}, 
+      author={Jacopo Amidei and Gregorio Ferreira and Mario Muñoz Serrano and Rubén Nieto and Andreas Kaltenbrunner},
+      year={2026},
+      eprint={2602.03334},
+      url={https://arxiv.org/abs/2602.03334}, 
+}
