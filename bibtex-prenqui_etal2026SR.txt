@@ -1,0 +1,10 @@
+@article{preniqi2026evolution,
+  title={Evolution of moral expression in song lyrics},
+  author={Preniqi, Vjosa and Kaltenbrunner, Andreas and Kalimeri, Kyriaki and Saitis, Charalampos},
+  journal={Scientific Reports},
+  volume={16},
+  number={1},
+  pages={19556},
+  year={2026},
+  publisher={Nature Publishing Group}
+}
