@@ -1,0 +1,10 @@
+@inproceedings{dignazi2026kdd,
+      title={Rewarding Engagement and Personalization in Popularity-Based Rankings Amplifies Extremism and Polarization}, 
+      author={Jacopo D'Ignazi and Emma Fraxanet Morales and Andreas Kaltenbrunner and Gaël Le Mens and Fabrizio Germano and Vicenç Gómez},
+      booktitle={Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+      year={2026},
+      publisher={ACM},
+      url={http://doi.acm.org/10.1145/3770855.3818037},
+      doi={10.1145/3770855.3818037},
+      address = {Jeju Island, Republic of Korea},
+}
