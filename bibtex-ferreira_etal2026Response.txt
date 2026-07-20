@@ -1,0 +1,9 @@
+@article{ferreira2026response,
+  title={Response to “Toward Audit-Ready Standards for Synthetic Cohorts in Health Decision Science”},
+  author={Ferreira, Gregorio and Amidei, Jacopo and Nieto, Ruben and Kaltenbrunner, Andreas},
+  journal={Health Data Science},
+  volume={6},
+  pages={0415},
+  year={2026},
+  publisher={AAAS}
+}
