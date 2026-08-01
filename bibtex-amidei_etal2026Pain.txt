@@ -1,0 +1,10 @@
+@article{amidei2026Pain,
+author = {Jacopo Amidei and Andreas Kaltenbrunner and Jose Gregorio Ferreira de Sa and Ruben Nieto},
+title = {Can large language models help in the assessment of people with pain?},
+journal = {Pain Management},
+pages = {1--6},
+year = {2026},
+publisher = {Taylor \& Francis},
+doi = {10.1080/17581869.2026.2710351},
+url = {https://doi.org/10.1080/17581869.2026.2710351},
+}
